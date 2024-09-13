@@ -1,6 +1,12 @@
 {
   "heroes": [
     {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
       "id": 2,
       "name": "Неизвестный герой",
       "description": "Скрывающийся в тени",
@@ -11,12 +17,6 @@
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
-    },
-    {
-      "id": "393991de-5569-4e0e-b27e-b5ed7f22393c",
-      "name": "eblan",
-      "description": "nihua",
-      "element": "fire"
     }
   ],
   "filters": [
